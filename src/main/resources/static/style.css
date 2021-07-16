@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #e2e2e2!important;
+}
+
+.my-card{
+	padding: 20px;
+	background: #ffffff
+}
